@@ -5,10 +5,13 @@ body {
     background: #fff;
     color: #000;
 }
-
+.deadnav{
+    color:#FFF;
+    background-color: #3CF;
+} 
 a:link{
     color: #F00;
-}
+} 
 a:visited{
     color: #FC0;
 }
@@ -18,7 +21,7 @@ a:hover{
 }
 a:active{
     color: #F3F;
-}
+} 
 .logo{
     font-size: 36px;
 }
@@ -57,7 +60,7 @@ a:active{
     float: left;
 }
 .centre {
-    width:47%;
+    width:51%;
     margin:10px;
     padding:10px;
     background-color:#CCC;
